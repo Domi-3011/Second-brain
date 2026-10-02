@@ -52,8 +52,9 @@ Mitarbeitende am 30.06.2026: 140 Köpfe, 131 Vollzeitstellen.
   - 4 offene Stellen im Service-Aussendienst sind unbesetzt
 - **Risiken:**
   - Eine Verschiebung von AlpPick 2.0 auf Q4 gefährdet die Vorbestellungen
+  - Bergland hat einen Ausbau für September geplant
   - Der Navigationsfehler ist seit dem Patch vom 24.06.2026 behoben
-  - Beim KI-Piloten liegt das Risiko in den Regeln, was der Agent Kunden zusagen darf
+  - KI-Pilot: Budget CHF 180'000 genehmigt, Kickoff im August. Das Risiko liegt in den Regeln, was der Agent Kunden zusagen darf
 - **Ausblick Gesamtjahr:** CHF 38 Mio. Umsatz, 10 % EBIT-Marge (Stand 30.07.2026)
 
 > [!warning] Contradiction

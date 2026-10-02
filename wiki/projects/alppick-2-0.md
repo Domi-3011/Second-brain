@@ -48,12 +48,12 @@ tags: [projekt, produkt, hardware]
 
 ## Abhängigkeiten
 
-- [[bergland-logistik-ag]] plant den Ausbau für September 2026, Q4 ist für Bergland ein Problem (Quelle: [[2026-06-18-email-thread-bergland]])
+- [[bergland-logistik-ag]] plant den Ausbau für September 2026, Q4 ist für Bergland ein Problem (Quelle: [[2026-06-18-email-thread-bergland]]) (Quelle: [[2026-07-30-q2-report-excerpt]])
 - Der Strategie-Entwurf nennt den Fokusverlust als Risiko, wenn AlpPick 2.0 im Herbst kommt ([[strategie-service-first]]) (Quelle: [[2026-05-05-strategy-memo-service-first]])
 - Eine Verschiebung auf Q4 würde die Vorbestellungen gefährden (Risiko im Q2-Bericht) (Quelle: [[2026-07-30-q2-report-excerpt]])
 
 > [!note] Uncertain
-> **Welcher Ausbau?** Laut E-Mail plant Bergland einen Ausbau für September 2026 (Quelle: [[2026-06-18-email-thread-bergland]]). Laut Q2-Bericht hat Bergland schon im Q2 2026 18 Roboter «for the expansion of Halls 3 and 4» erhalten (Quelle: [[2026-07-30-q2-report-excerpt]]). Ob es derselbe Ausbau ist, sagen die Quellen nicht.
+> **Welcher Ausbau?** Laut E-Mail und Q2-Bericht plant Bergland einen Ausbau für September 2026 (Quelle: [[2026-06-18-email-thread-bergland]]) (Quelle: [[2026-07-30-q2-report-excerpt]]). Laut Q2-Bericht hat Bergland schon im Q2 2026 18 Roboter «for the expansion of Halls 3 and 4» erhalten (Quelle: [[2026-07-30-q2-report-excerpt]]). Ob es derselbe Ausbau ist, sagen die Quellen nicht.
 
 > [!note] Uncertain
 > Was die GL im August entschieden hat und ob die Einführung stattgefunden hat, steht in keiner eingelesenen Quelle (heute 02.10.2026).
