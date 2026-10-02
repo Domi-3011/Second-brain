@@ -96,7 +96,7 @@ tags: [thema, thema]
 4. Unsicherheit markieren (`[!note] Uncertain`), nicht glätten.
 5. Nach jeder Aktion: `_index.md` prüfen, `_log.md` ergänzen.
 
-## 5. Workflows (Grundversion)
+## 5. Workflows
 
 ### Workflow 1: Ingest
 
