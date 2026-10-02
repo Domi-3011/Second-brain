@@ -36,12 +36,15 @@ tags: [projekt, ki, service]
 
 - Im Fall [[ausfaelle-bergland-2026]] führte eine menschliche Antwort zu einer umstrittenen Zusage (Quelle: [[2026-06-18-email-thread-bergland]]). Die Kickoff-Notizen nennen das Verbot, Gutschriften zu versprechen, ausdrücklich eine «Lesson from the Bergland case» (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]]).
 
-## Offene Fragen (Kickoff 21.08.2026)
+## Offene Punkte
+
+Offene Fragen aus dem Kickoff vom 21.08.2026:
 
 1. Verantwortung bei falscher Klassierung ([[marco-steiner]]) (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
 2. Qualitätsmessung, Vorschlag: 10 % Stichprobe ([[nadia-frei]]) (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
 3. Kundendaten im Sprachmodell: Klärung mit dem Datenschutz bis 15.09.2026 (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
 4. Rückfall auf den heutigen Prozess muss jederzeit möglich sein (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
+5. Ob der Agent nach dem Pilot Antworten direkt an Kunden senden darf, wird nach dem Pilot entschieden (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
 
 ## Nächste Schritte
 
