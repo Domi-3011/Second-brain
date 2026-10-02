@@ -9,6 +9,7 @@
 - [[2026-06-18-email-thread-bergland]] – E-Mail-Verlauf vom 16.–18.06.2026: Ausfälle bei Bergland, AlpCare-Preis, Termin AlpPick 2.0, Gutschrift (updated 2026-10-02)
 - [[2026-07-30-q2-report-excerpt]] – Quartalsbericht Q2 2026: Kennzahlen, Genehmigungen, Risiken (updated 2026-10-02)
 - [[2026-08-21-kickoff-notes-agentic-ai-pilot]] – Kickoff des KI-Piloten vom 21.08.2026: Regeln, Architektur, offene Fragen (updated 2026-10-02)
+- [[2026-09-02-shopping-list-team-event]] – Einkaufsliste für das Team-Event vom 19.09.: Grillfest Forstseeli, rund 45 Personen (updated 2026-10-02)
 
 ## Entities (people, organizations, products)
 - [[alpstein-robotics-ag]] – Das Unternehmen: Standorte, Kennzahlen, Geschäftsleitung (updated 2026-10-02)

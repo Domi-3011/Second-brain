@@ -31,7 +31,7 @@ Die GL behandelte den Geschäftsgang Januar–Februar 2026, den Stand von [[alpp
 - **AlpCare:** Fernüberwachung via [[alpmind]] reduziert Vor-Ort-Einsätze um rund 30 %. Kunden wünschen eine garantierte Reaktionszeit unter 4 Stunden. Preis: CHF 1'200 pro Roboter und Monat (Stand 12.03.2026).
 - **Beschlossen:** [[jonas-weber]] und [[marco-steiner]] erarbeiten bis zur Mai-Sitzung ein Preismodell für AlpCare Plus.
 - **Personal:** 6 offene Stellen in der Softwareentwicklung, 4 davon in Buchs ([[rekrutierung-softwareentwicklung]]). Das Onboarding soll bis Sommer digitalisiert werden ([[digitales-onboarding]]).
-- **Varia:** Team-Event im September 2026, organisiert von der Assistenz der GL.
+- **Varia:** Team-Event im September 2026, organisiert von der Assistenz der GL. Einkaufsliste dazu: [[2026-09-02-shopping-list-team-event]].
 
 ## Pendenzen
 
