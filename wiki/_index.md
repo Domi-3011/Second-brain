@@ -31,4 +31,4 @@ _(none yet)_
 _(none yet)_
 
 ## Lint reports
-_(none yet)_
+- [[2026-10-02]] – Lint-Bericht: 7 Befunde, v. a. nicht eingelesene Quellen und überfällige Pendenzen (updated 2026-10-02)
