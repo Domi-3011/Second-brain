@@ -39,11 +39,11 @@ tags: [projekt, kunde, ausfall, gutschrift]
 
 ## Offene Punkte
 
-- Entscheid der GL zur Gutschrift (Stand 30.07.2026 nicht gebucht)
-- Gab es nach dem 24.06.2026 weitere Ausfälle?
+- Entscheid der GL zur Gutschrift (Stand 30.07.2026 nicht gebucht) (Quelle: [[2026-07-30-q2-report-excerpt]])
+- Gab es nach dem 24.06.2026 weitere Ausfälle? Keine eingelesene Quelle sagt etwas dazu.
 
 ## Zusammenhang
 
-- [[alppick-2-0]]: Bergland plant den Ausbau für September 2026 (Quelle: [[2026-06-18-email-thread-bergland]])
+- [[alppick-2-0]]: Bergland plant den Ausbau für September 2026 (Quelle: [[2026-06-18-email-thread-bergland]]) (Quelle: [[2026-07-30-q2-report-excerpt]]). Ob es derselbe Ausbau ist wie die Lieferung von 18 Robotern im Q2, ist offen, siehe [[bergland-logistik-ag]].
 - [[service-triage-agent]]: Der Agent darf nie eine Gutschrift versprechen, ausdrücklich als Lehre aus diesem Fall (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
 - [[alpcare]] und [[alpcare-plus]]: Preis und garantierte Reaktionszeit (Quelle: [[2026-06-18-email-thread-bergland]])

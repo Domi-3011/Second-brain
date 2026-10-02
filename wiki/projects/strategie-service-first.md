@@ -3,7 +3,7 @@ title: Strategie «Service first» 2026–2028
 type: project
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-07-30-q2-report-excerpt.md]
+sources: [raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-07-30-q2-report-excerpt.md, raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md]
 tags: [projekt, strategie, service]
 ---
 
@@ -38,6 +38,12 @@ tags: [projekt, strategie, service]
 1. Ziel 50 % Service-Umsatz bis 2028 (Quelle: [[2026-05-05-strategy-memo-service-first]])
 2. Preismodell AlpCare Plus (Quelle: [[2026-05-05-strategy-memo-service-first]]): genehmigt (Stand 30.07.2026) (Quelle: [[2026-07-30-q2-report-excerpt]])
 3. Pilotbudget Agentic AI: CHF 180'000 (Quelle: [[2026-05-05-strategy-memo-service-first]]): genehmigt (Stand 30.07.2026) (Quelle: [[2026-07-30-q2-report-excerpt]])
+
+## Offene Punkte
+
+- Ob die GL das Ziel von 50 % Service-Umsatz bis 2028 beschlossen hat, belegt keine Quelle (Quelle: [[2026-05-05-strategy-memo-service-first]])
+- Der Wert des [[service-anteil]] im Frühling 2026 ist widersprüchlich, siehe oben (Quelle: [[2026-05-05-strategy-memo-service-first]]) (Quelle: [[2026-07-30-q2-report-excerpt]])
+- Die finalen Regeln für den [[service-triage-agent]] (Risiko «Haftung») sind nicht eingelesen (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
 
 ## Zusammenhang
 

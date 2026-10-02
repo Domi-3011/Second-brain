@@ -3,7 +3,7 @@ title: Kickoff-Notizen Pilot «Agentic AI im Service»
 type: source
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md]
+sources: [raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md]
 tags: [ki, service, pilot]
 ---
 

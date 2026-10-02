@@ -22,6 +22,11 @@ tags: [projekt, personal]
 > [!note] Uncertain
 > Ob nach den 8 Neueintritten noch Stellen in der Softwareentwicklung offen sind, steht nicht in der Quelle.
 
+## Offene Punkte
+
+- Sind nach den 8 Neueintritten im Q2 noch Stellen in der Softwareentwicklung offen? (Quelle: [[2026-07-30-q2-report-excerpt]])
+- 4 Stellen im Service-Aussendienst sind unbesetzt (Stand 30.06.2026) (Quelle: [[2026-07-30-q2-report-excerpt]])
+
 ## Zusammenhang
 
 - [[digitales-onboarding]]
