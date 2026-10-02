@@ -3,14 +3,14 @@ title: AlpCare Plus
 type: project
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-06-18-email-thread-bergland.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-06-18-email-thread-bergland.md, raw/alpstein/2026-07-30-q2-report-excerpt.md]
 tags: [projekt, service, preis]
 ---
 
 # AlpCare Plus
 
 **Was:** Geplante Variante von [[alpcare]] mit garantierter Reaktionszeit unter 4 Stunden, auf Kundenwunsch (Quelle: [[2026-03-12-executive-board-minutes]])
-**Status:** Vorschlag. Im Strategie-Entwurf mit CHF 1'900 kalkuliert (Quelle: [[2026-05-05-strategy-memo-service-first]]). Laut [[sandra-koller]] ist die Preisfrage nicht entschieden (Stand 16.06.2026). (Quelle: [[2026-06-18-email-thread-bergland]])
+**Status:** Preismodell von CHF 1'900 genehmigt (Stand 30.07.2026) (Quelle: [[2026-07-30-q2-report-excerpt]]). Wer es wann genehmigt hat, steht nicht in der Quelle. Am 16.06.2026 war es laut [[sandra-koller]] noch nicht entschieden. (Quelle: [[2026-06-18-email-thread-bergland]])
 **Teil von:** [[strategie-service-first]]
 
 ## Entscheide
@@ -19,7 +19,7 @@ tags: [projekt, service, preis]
 
 ## Offene Punkte
 
-- Ob das Preismodell (Vorschlag CHF 1'900) entschieden ist, ist offen. Laut [[sandra-koller]] ist es am 16.06.2026 nicht entschieden. (Quelle: [[2026-05-05-strategy-memo-service-first]]) (Quelle: [[2026-06-18-email-thread-bergland]])
+- Ab wann AlpCare Plus angeboten wird, steht in keiner Quelle.
 - Zum Vergleich: Der Preis von [[alpcare]] ist selbst umstritten (CHF 1'200 oder 1'450), siehe dort. (Quelle: [[2026-03-12-executive-board-minutes]]) (Quelle: [[2026-06-18-email-thread-bergland]])
 
 ## Leistungen (Vorschlag, Stand 05.05.2026)
@@ -32,6 +32,7 @@ tags: [projekt, service, preis]
 ## Preis
 
 - Kalkuliert: CHF 1'900 pro Roboter und Monat (Vorschlag, Stand 05.05.2026) (Quelle: [[2026-05-05-strategy-memo-service-first]])
+- Genehmigt: CHF 1'900 (Stand 30.07.2026) (Quelle: [[2026-07-30-q2-report-excerpt]])
 - Verantwortlich: [[jonas-weber]] (Quelle: [[2026-05-05-strategy-memo-service-first]])
 
 > [!warning] Contradiction
