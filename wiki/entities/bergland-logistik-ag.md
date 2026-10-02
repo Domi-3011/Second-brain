@@ -20,5 +20,8 @@ tags: [organisation, kunde]
 - Erhielt im Q2 2026 18 neue AlpPick-Roboter für den Ausbau der Hallen 3 und 4 (Quelle: [[2026-07-30-q2-report-excerpt]])
 - Sonderkosten bei Alpstein wegen der Ausfälle: CHF 62'000. Eine Gutschrift ist nicht gebucht, der Entscheid liegt bei der GL (Stand 30.07.2026). (Quelle: [[2026-07-30-q2-report-excerpt]])
 
+> [!note] Uncertain
+> **Welcher Ausbau?** Laut E-Mail plant Bergland einen Ausbau für September 2026 (Quelle: [[2026-06-18-email-thread-bergland]]). Laut Q2-Bericht hat Bergland schon im Q2 2026 18 Roboter «for the expansion of Halls 3 and 4» erhalten (Quelle: [[2026-07-30-q2-report-excerpt]]). Ob es derselbe Ausbau ist, sagen die Quellen nicht.
+
 > [!warning] Contradiction
 > **Gutschrift:** Bergland geht von einer zugesagten Entschädigung aus, Jonas Weber bestreitet eine konkrete Zusage. Details auf [[ausfaelle-bergland-2026]]. (Quelle: [[2026-06-18-email-thread-bergland]])

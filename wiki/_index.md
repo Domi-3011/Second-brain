@@ -46,3 +46,4 @@ _(none yet)_
 
 ## Lint reports
 - [[2026-10-02]] – Lint-Bericht: 7 Befunde, v. a. nicht eingelesene Quellen und überfällige Pendenzen (updated 2026-10-02)
+- [[2026-10-02-2]] – Lint-Bericht, 2. Lauf: 7 offene Widersprüche, 10 weitere Befunde (updated 2026-10-02)
