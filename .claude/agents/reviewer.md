@@ -18,6 +18,7 @@ Read `CLAUDE.md` first (sections 4 to 6). Then check each page you are given (or
 6. **Wikilinks point to existing pages.**
 7. **`_index.md` contains the page; `_log.md` has an entry.**
 8. **Tone and language** match section 3 of CLAUDE.md.
+9. **Every project page has a section "Open points".** In this German wiki the heading is `## Offene Punkte`.
 
 ## How you report
 

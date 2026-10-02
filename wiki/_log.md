@@ -19,3 +19,6 @@
 - 2026-10-02 09:51 | lint | Lint über 31 Seiten (2. Lauf): 7 offene Widersprüche, 10 weitere Befunde (0 hoch, 4 mittel, 6 tief) | _lint/2026-10-02-2
 - 2026-10-02 09:51 | other | Korrektur zum vorigen Lint-Eintrag: richtig sind 3 mittel und 7 tief (nicht 4 und 6) | _lint/2026-10-02-2
 - 2026-10-02 10:01 | other | Korrekturen nach Lint 2026-10-02-2, Befunde L-08 bis L-11 (mit Zustimmung der Inhaberin) | bergland-logistik-ag, alppick-2-0, alpcare, sandra-koller, rekrutierung-softwareentwicklung
+- 2026-10-02 10:03 | other | Reviewer-Agent: neunte Prüfung ergänzt (jede Projektseite hat einen Abschnitt «Offene Punkte») | .claude/agents/reviewer.md
+- 2026-10-02 10:11 | ingest | raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md (erneut, Abgleich mit bestehenden Seiten) | neu: –; geändert: agentic-ai-pilot (Abschnitt «Offene Punkte», Frage 5), bergland-logistik-ag (Lehre aus dem Fall); geprüft ohne Änderung: 2026-08-21-kickoff-notes-agentic-ai-pilot, service-triage-agent, nadia-frei, lukas-amrein, jonas-weber, priya-raman, marco-steiner, alpmind, ausfaelle-bergland-2026
+- 2026-10-02 10:13 | review | 2 Review-Runden zum erneuten Ingest der Kickoff-Notizen: Runde 1 0 hoch / 0 mittel / 6 tief, Runde 2 0 hoch / 0 mittel / 7 tief, beide Freigabe ja; nichts korrigiert (Auftrag: nur hoch und mittel) | agentic-ai-pilot, bergland-logistik-ag u. a.
