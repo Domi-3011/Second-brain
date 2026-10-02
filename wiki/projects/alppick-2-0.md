@@ -3,14 +3,14 @@ title: AlpPick 2.0
 type: project
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-06-18-email-thread-bergland.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-06-18-email-thread-bergland.md, raw/alpstein/2026-07-30-q2-report-excerpt.md]
 tags: [projekt, produkt, hardware]
 ---
 
 # AlpPick 2.0
 
 **Was:** Neue Generation des Kommissionierroboters [[alppick]] (Quelle: [[2026-03-12-executive-board-minutes]])
-**Status:** Markteinführung im September 2026 beschlossen (Stand 12.03.2026) (Quelle: [[2026-03-12-executive-board-minutes]]). Am 16.06.2026 nennt [[jonas-weber]] «Q4», nicht bestätigt. (Quelle: [[2026-06-18-email-thread-bergland]]) Siehe Widerspruch unten.
+**Status:** Markteinführung im September 2026 beschlossen (Stand 12.03.2026) (Quelle: [[2026-03-12-executive-board-minutes]]). Am 16.06.2026 nennt [[jonas-weber]] «Q4», nicht bestätigt. (Quelle: [[2026-06-18-email-thread-bergland]]) Laut Q2-Bericht wird der Termin an der GL-Sitzung im August festgelegt (Stand 30.07.2026). (Quelle: [[2026-07-30-q2-report-excerpt]]) Siehe Widerspruch unten.
 
 ## Neuerungen
 
@@ -21,6 +21,7 @@ tags: [projekt, produkt, hardware]
 
 - Seit Februar 2026 laufen zwei Pilotroboter bei [[bergland-logistik-ag]] in Buchs (Quelle: [[2026-03-12-executive-board-minutes]])
 - Den Stand präsentiert [[priya-raman]] (CTO) (Quelle: [[2026-03-12-executive-board-minutes]])
+- 41 Vorbestellungen (Stand 30.07.2026) (Quelle: [[2026-07-30-q2-report-excerpt]])
 
 ## Entscheide
 
@@ -43,11 +44,13 @@ tags: [projekt, produkt, hardware]
 > **Termin:**
 > - Die GL hat am 12.03.2026 September 2026 beschlossen (Quelle: [[2026-03-12-executive-board-minutes]]).
 > - Jonas Weber schreibt [[bergland-logistik-ag]] am 16.06.2026: «we currently assume Q4. This is not yet confirmed.» (Quelle: [[2026-06-18-email-thread-bergland]])
+> - Der Q2-Bericht vom 30.07.2026 sagt, der Termin «will be set at the Executive Board meeting in August». (Quelle: [[2026-07-30-q2-report-excerpt]])
 
 ## Abhängigkeiten
 
 - [[bergland-logistik-ag]] plant den Ausbau für September 2026, Q4 ist für Bergland ein Problem (Quelle: [[2026-06-18-email-thread-bergland]])
 - Der Strategie-Entwurf nennt den Fokusverlust als Risiko, wenn AlpPick 2.0 im Herbst kommt ([[strategie-service-first]]) (Quelle: [[2026-05-05-strategy-memo-service-first]])
+- Eine Verschiebung auf Q4 würde die Vorbestellungen gefährden (Risiko im Q2-Bericht) (Quelle: [[2026-07-30-q2-report-excerpt]])
 
 > [!note] Uncertain
-> Neuere Quellen in `raw/alpstein/` sind noch nicht eingelesen (Q2-Bericht vom 30.07.2026) und können den Stand ändern.
+> Was die GL im August entschieden hat und ob die Einführung stattgefunden hat, steht in keiner eingelesenen Quelle (heute 02.10.2026).

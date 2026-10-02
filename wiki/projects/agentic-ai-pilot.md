@@ -3,27 +3,30 @@ title: Pilot «Agentic AI im Service»
 type: project
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-05-05-strategy-memo-service-first.md]
+sources: [raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-07-30-q2-report-excerpt.md, raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md]
 tags: [projekt, ki, service]
 ---
 
 # Pilot «Agentic AI im Service»
 
-**Was:** Ein KI-Agent soll Service-Tickets automatisch klassieren, Standardfälle direkt lösen und komplexe Fälle an Menschen übergeben (Quelle: [[2026-05-05-strategy-memo-service-first]])
-**Status:** beantragt, Pilot ab August 2026 geplant. Ein Entscheid zum Budget ist im Wiki nicht belegt (Stand 05.05.2026). (Quelle: [[2026-05-05-strategy-memo-service-first]])
+**Was:** Laut Strategie-Memo (Entwurf, 05.05.2026) soll ein KI-Agent Service-Tickets automatisch klassieren, Standardfälle direkt lösen und komplexe Fälle an Menschen übergeben. Im Pilot gibt ein Mensch frei, siehe Widerspruch unten. (Quelle: [[2026-05-05-strategy-memo-service-first]])
+**Status:** Budget genehmigt (Stand 30.07.2026) (Quelle: [[2026-07-30-q2-report-excerpt]]). Kickoff am 21.08.2026, Pilot von September bis November 2026 (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]]).
 **Teil von:** [[strategie-service-first]]
 
 ## Ziel
 
-- Reaktionszeit unter 10 Minuten im Standardfall (Quelle: [[2026-05-05-strategy-memo-service-first]])
+- Reaktionszeit unter 10 Minuten im Standardfall (Quelle: [[2026-05-05-strategy-memo-service-first]]), heute im Schnitt 3 Stunden (Stand 21.08.2026) (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
+- Umsetzung: [[service-triage-agent]]
 
 ## Verantwortlich
 
 - [[jonas-weber]] mit [[priya-raman]] (Quelle: [[2026-05-05-strategy-memo-service-first]])
+- Am Kickoff: [[jonas-weber]] Projektleitung, [[priya-raman]] Technik, [[nadia-frei]] Service Desk, [[lukas-amrein]] Softwareentwicklung (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
 
 ## Budget
 
 - Beantragt: CHF 180'000 (Stand 05.05.2026) (Quelle: [[2026-05-05-strategy-memo-service-first]])
+- Genehmigt: CHF 180'000 (Stand 30.07.2026) (Quelle: [[2026-07-30-q2-report-excerpt]])
 
 ## Risiken
 
@@ -31,7 +34,35 @@ tags: [projekt, ki, service]
 
 ## Zusammenhang
 
-- Im Fall [[ausfaelle-bergland-2026]] führte eine menschliche Antwort zu einer umstrittenen Zusage. Das zeigt, wie wichtig solche Regeln sind. (Quelle: [[2026-06-18-email-thread-bergland]])
+- Im Fall [[ausfaelle-bergland-2026]] führte eine menschliche Antwort zu einer umstrittenen Zusage (Quelle: [[2026-06-18-email-thread-bergland]]). Die Kickoff-Notizen nennen das Verbot, Gutschriften zu versprechen, ausdrücklich eine «Lesson from the Bergland case» (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]]).
+
+## Offene Fragen (Kickoff 21.08.2026)
+
+1. Verantwortung bei falscher Klassierung ([[marco-steiner]]) (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
+2. Qualitätsmessung, Vorschlag: 10 % Stichprobe ([[nadia-frei]]) (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
+3. Kundendaten im Sprachmodell: Klärung mit dem Datenschutz bis 15.09.2026 (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
+4. Rückfall auf den heutigen Prozess muss jederzeit möglich sein (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
+
+## Nächste Schritte
+
+| Was | Wer | Bis |
+|---|---|---|
+| Regelwerk finalisieren | [[jonas-weber]], [[nadia-frei]] | 05.09.2026 |
+| Konzept Qualitätsmessung | [[nadia-frei]] | 12.09.2026 |
+| Datenschutz klären | [[priya-raman]] | 15.09.2026 |
+| Wissensbasis aufbauen | [[lukas-amrein]] | 19.09.2026 |
+| Statusbericht an die GL | [[jonas-weber]] | 30.09.2026 |
+
+(Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
+
+> [!warning] Contradiction
+> **Start des Piloten:**
+> - «Pilot from August 2026» laut Memo vom 05.05.2026 (Quelle: [[2026-05-05-strategy-memo-service-first]])
+> - «kickoff in August» laut Q2-Bericht vom 30.07.2026 (Quelle: [[2026-07-30-q2-report-excerpt]])
+> - Pilotdauer «September to November 2026» laut Kickoff-Notizen vom 21.08.2026 (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
 
 > [!note] Uncertain
-> Neuere Quellen in `raw/alpstein/` sind noch nicht eingelesen (Q2-Bericht vom 30.07.2026, Kickoff-Notizen vom 21.08.2026) und können Termin, Budget und Status ändern.
+> Alle Termine der nächsten Schritte sind vorbei (heute 02.10.2026). Ob sie eingehalten wurden, weiss das Wiki nicht.
+
+> [!warning] Contradiction
+> **Standardfälle direkt lösen:** Laut Memo löst der Agent Standardfälle «directly» (Quelle: [[2026-05-05-strategy-memo-service-first]]). Der Regelentwurf vom 21.08.2026 erlaubt im Pilot keine Antwort direkt an Kunden, ein Mensch gibt frei (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]]).

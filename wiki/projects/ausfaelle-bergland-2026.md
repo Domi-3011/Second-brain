@@ -3,14 +3,14 @@ title: Ausfälle bei Bergland 2026
 type: project
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-06-18-email-thread-bergland.md]
+sources: [raw/alpstein/2026-06-18-email-thread-bergland.md, raw/alpstein/2026-07-30-q2-report-excerpt.md, raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md]
 tags: [projekt, kunde, ausfall, gutschrift]
 ---
 
 # Ausfälle bei Bergland 2026
 
 **Was:** Wiederholte Ausfälle von [[alppick]]-Robotern in Halle 3 bei [[bergland-logistik-ag]] und die Frage nach einer Gutschrift (Quelle: [[2026-06-18-email-thread-bergland]])
-**Status:** offen, Klärung mit [[marco-steiner]] geplant (Stand 18.06.2026) (Quelle: [[2026-06-18-email-thread-bergland]])
+**Status:** Technisch behoben seit dem Patch vom 24.06.2026. Die Gutschrift ist offen, der Entscheid liegt bei der GL (Stand 30.07.2026). (Quelle: [[2026-07-30-q2-report-excerpt]])
 
 ## Vorfälle
 
@@ -22,6 +22,8 @@ tags: [projekt, kunde, ausfall, gutschrift]
 
 - Fehler in der Navigationssoftware nach dem Update vom 20.05.2026 (Angabe von [[jonas-weber]]) (Quelle: [[2026-06-18-email-thread-bergland]])
 - Ein Patch war im Test, Rollout für die Woche nach dem 16.06.2026 angekündigt (Quelle: [[2026-06-18-email-thread-bergland]])
+- Der Navigationsfehler ist seit dem Patch vom 24.06.2026 behoben (Quelle: [[2026-07-30-q2-report-excerpt]])
+- Sonderkosten für Alpstein: CHF 62'000 (Einsätze, Ersatzteile) (Quelle: [[2026-07-30-q2-report-excerpt]])
 
 ## Gutschrift
 
@@ -37,10 +39,11 @@ tags: [projekt, kunde, ausfall, gutschrift]
 
 ## Offene Punkte
 
-- Entscheid zur Gutschrift
-- Wurde der Patch ausgerollt, und gab es weitere Ausfälle?
+- Entscheid der GL zur Gutschrift (Stand 30.07.2026 nicht gebucht)
+- Gab es nach dem 24.06.2026 weitere Ausfälle?
 
 ## Zusammenhang
 
 - [[alppick-2-0]]: Bergland plant den Ausbau für September 2026 (Quelle: [[2026-06-18-email-thread-bergland]])
+- [[service-triage-agent]]: Der Agent darf nie eine Gutschrift versprechen, ausdrücklich als Lehre aus diesem Fall (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
 - [[alpcare]] und [[alpcare-plus]]: Preis und garantierte Reaktionszeit (Quelle: [[2026-06-18-email-thread-bergland]])

@@ -3,7 +3,7 @@ title: AlpMind als Plattform
 type: project
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-05-05-strategy-memo-service-first.md]
+sources: [raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-07-30-q2-report-excerpt.md]
 tags: [projekt, software, strategie]
 ---
 
@@ -20,3 +20,4 @@ tags: [projekt, software, strategie]
 ## Stand
 
 - Erste Schnittstelle: Fahrzeuge eines Konkurrenten aus Bayern, die bereits bei [[rheintal-pharma-ag]] im Einsatz sind (Quelle: [[2026-05-05-strategy-memo-service-first]])
+- Die Schnittstelle zu Fremdrobotern ist im Prototyp-Stadium, der erste Test bei [[rheintal-pharma-ag]] ist für Q3 2026 geplant (Stand 30.07.2026) (Quelle: [[2026-07-30-q2-report-excerpt]])
