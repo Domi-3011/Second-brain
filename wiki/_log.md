@@ -16,3 +16,4 @@
 - 2026-10-02 09:45 | ingest | raw/alpstein/2026-08-21-kickoff-notes-agentic-ai-pilot.md | neu: 2026-08-21-kickoff-notes-agentic-ai-pilot, nadia-frei, lukas-amrein, service-triage-agent; geändert: agentic-ai-pilot, jonas-weber, priya-raman, marco-steiner, alpmind, ausfaelle-bergland-2026, _index.md
 - 2026-10-02 09:45 | other | raw/alpstein/2026-09-02-shopping-list-team-event.md bewusst nicht eingelesen (kein Geschäftswissen, mit Zustimmung der Inhaberin) | –
 - 2026-10-02 09:48 | review | Korrekturen nach zwei Reviews der Ingests Q2-Bericht und Kickoff-Notizen (2. Review: Freigabe ja) | service-anteil, strategie-service-first, agentic-ai-pilot, 2026-07-30-q2-report-excerpt, alpstein-robotics-ag, ausfaelle-bergland-2026, service-triage-agent, rheintal-pharma-ag, bergland-logistik-ag, alppick-2-0, _index.md
+- 2026-10-02 09:51 | lint | Lint über 31 Seiten (2. Lauf): 7 offene Widersprüche, 10 weitere Befunde (0 hoch, 4 mittel, 6 tief) | _lint/2026-10-02-2
