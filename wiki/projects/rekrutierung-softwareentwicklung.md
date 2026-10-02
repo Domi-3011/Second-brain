@@ -10,7 +10,7 @@ tags: [projekt, personal]
 # Rekrutierung Softwareentwicklung
 
 **Was:** Rekrutierung für die Softwareentwicklung von [[alpstein-robotics-ag]] (Quelle: [[2026-03-12-executive-board-minutes]])
-**Status:** läuft (Stand 12.03.2026) (Quelle: [[2026-03-12-executive-board-minutes]])
+**Status:** läuft (Stand 12.03.2026) (Quelle: [[2026-03-12-executive-board-minutes]]). Im Q2 2026 traten 8 Personen in der Softwareentwicklung ein (Stand 30.07.2026) (Quelle: [[2026-07-30-q2-report-excerpt]]). Ob noch Stellen offen sind, ist nicht belegt.
 
 ## Stand
 

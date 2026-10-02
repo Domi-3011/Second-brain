@@ -27,6 +27,7 @@ tags: [produkt, service]
 - Der Service-Umsatz wächst langsamer als geplant (Jan.–Feb. 2026) (Quelle: [[2026-03-12-executive-board-minutes]])
 - Fernüberwachung via [[alpmind]] reduziert Vor-Ort-Einsätze um rund 30 % (Stand 12.03.2026) (Aussage von [[jonas-weber]]) (Quelle: [[2026-03-12-executive-board-minutes]])
 - Kunden wünschen eine Variante mit garantierter Reaktionszeit unter 4 Stunden, daraus ist der Vorschlag [[alpcare-plus]] entstanden (Vorlage Mai 2026) (Quelle: [[2026-03-12-executive-board-minutes]])
+- Das Preismodell für AlpCare Plus von CHF 1'900 ist genehmigt (Stand 30.07.2026), siehe [[alpcare-plus]] (Quelle: [[2026-07-30-q2-report-excerpt]])
 - Kunden vergleichen AlpCare mit deutlich günstigeren reinen Wartungsverträgen (Risiko im Strategie-Entwurf) (Quelle: [[2026-05-05-strategy-memo-service-first]])
 - Im Fall [[ausfaelle-bergland-2026]] meldete die Fernüberwachung einen Fehler, aber vor 10 Uhr war niemand erreichbar (15.06.2026) (Quelle: [[2026-06-18-email-thread-bergland]])
 - Service-Umsatz Q2 2026: CHF 3,0 Mio. (Plan 2,8), [[service-anteil]] 31 % (Quelle: [[2026-07-30-q2-report-excerpt]])
