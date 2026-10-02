@@ -35,7 +35,7 @@
 - [[alppick-2-0]] – Neue Robotergeneration: Termin umstritten (September, Q4 oder im August neu festgelegt) (updated 2026-10-02)
 - [[alpcare-plus]] – Service-Variante mit garantierter Reaktionszeit, Preis CHF 1'900 genehmigt (updated 2026-10-02)
 - [[digitales-onboarding]] – Digitalisierung des Onboardings bis Sommer 2026 (updated 2026-10-02)
-- [[rekrutierung-softwareentwicklung]] – Offene Stellen in der Softwareentwicklung (updated 2026-10-02)
+- [[rekrutierung-softwareentwicklung]] – Rekrutierung Softwareentwicklung: 8 Neueintritte im Q2 2026, offene Stellen danach unklar (updated 2026-10-02)
 - [[strategie-service-first]] – Strategie-Entwurf 2026–2028: Ziel 50 % Service-Umsatz (updated 2026-10-02)
 - [[alpmind-plattform]] – AlpMind soll Roboter anderer Hersteller steuern (updated 2026-10-02)
 - [[agentic-ai-pilot]] – KI-Agent im Service, Budget genehmigt, Start umstritten (August/September) (updated 2026-10-02)

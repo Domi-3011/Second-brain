@@ -20,7 +20,7 @@ tags: [projekt, service, preis]
 ## Offene Punkte
 
 - Ab wann AlpCare Plus angeboten wird, steht in keiner Quelle.
-- Zum Vergleich: Der Preis von [[alpcare]] ist selbst umstritten (CHF 1'200 oder 1'450), siehe dort. (Quelle: [[2026-03-12-executive-board-minutes]]) (Quelle: [[2026-06-18-email-thread-bergland]])
+- Zum Vergleich: Der Preis von [[alpcare]] ist selbst umstritten (CHF 1'200 oder 1'450), siehe dort. Stand 30.07.2026: Preisliste CHF 1'200 unverändert. (Quelle: [[2026-03-12-executive-board-minutes]]) (Quelle: [[2026-06-18-email-thread-bergland]]) (Quelle: [[2026-07-30-q2-report-excerpt]])
 
 ## Leistungen (Vorschlag, Stand 05.05.2026)
 

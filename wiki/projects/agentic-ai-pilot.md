@@ -64,8 +64,9 @@ Aus dem Regelentwurf des Kickoffs:
 > [!warning] Contradiction
 > **Start des Piloten:**
 > - «Pilot from August 2026» laut Memo vom 05.05.2026 (Quelle: [[2026-05-05-strategy-memo-service-first]])
-> - «kickoff in August» laut Q2-Bericht vom 30.07.2026 (Quelle: [[2026-07-30-q2-report-excerpt]])
 > - Pilotdauer «September to November 2026» laut Kickoff-Notizen vom 21.08.2026 (Quelle: [[2026-08-21-kickoff-notes-agentic-ai-pilot]])
+>
+> Ergänzend, kein Widerspruch: Der Q2-Bericht vom 30.07.2026 nennt einen «kickoff in August» (Quelle: [[2026-07-30-q2-report-excerpt]]).
 
 > [!note] Uncertain
 > Alle Termine der nächsten Schritte sind vorbei (heute 02.10.2026). Ob sie eingehalten wurden, weiss das Wiki nicht.

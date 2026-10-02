@@ -3,7 +3,7 @@ title: Quartalsbericht Q2 2026 (Auszug für die GL)
 type: source
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-07-30-q2-report-excerpt.md]
+sources: [raw/alpstein/2026-07-30-q2-report-excerpt.md, raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-06-18-email-thread-bergland.md]
 tags: [finanzen, quartalsbericht, kennzahlen]
 ---
 
@@ -39,12 +39,12 @@ Mitarbeitende am 30.06.2026: 140 Köpfe, 131 Vollzeitstellen.
 
 - **Hardware:**
   - 34 neue AlpPick ausgeliefert, davon 18 an Bergland (Ausbau Hallen 3 und 4) und 9 an die Neukundin [[toggenburg-moebel-ag]]
-  - 41 Vorbestellungen für AlpPick 2.0
+  - Die Nachfrage nach AlpPick 2.0 ist hoch, 41 Vorbestellungen liegen vor
   - Der Einführungstermin wird an der GL-Sitzung im August festgelegt
 - **Software:** Die Schnittstelle zu Fremdrobotern ([[alpmind-plattform]]) ist im Prototyp-Stadium. Der erste Test bei [[rheintal-pharma-ag]] ist für Q3 geplant.
 - **Service:**
   - Die AlpCare-Verträge wachsen schneller als die Flotte
-  - Die drei Ausfälle bei Bergland (Mai/Juni) verursachten Sonderkosten von CHF 62'000
+  - Die drei Ausfälle bei Bergland (Mai/Juni) verursachten Sonderkosten von CHF 62'000 (Einsätze, Ersatzteile)
   - Eine Gutschrift ist **nicht** gebucht, der Entscheid liegt bei der GL
   - Preismodell AlpCare Plus (CHF 1'900) genehmigt, AlpCare-Preisliste (CHF 1'200) unverändert
 - **Personal:**
@@ -53,8 +53,8 @@ Mitarbeitende am 30.06.2026: 140 Köpfe, 131 Vollzeitstellen.
 - **Risiken:**
   - Eine Verschiebung von AlpPick 2.0 auf Q4 gefährdet die Vorbestellungen
   - Bergland hat einen Ausbau für September geplant
-  - Der Navigationsfehler ist seit dem Patch vom 24.06.2026 behoben
-  - KI-Pilot: Budget CHF 180'000 genehmigt, Kickoff im August. Das Risiko liegt in den Regeln, was der Agent Kunden zusagen darf
+  - Der Navigationsfehler ist seit dem Patch vom 24.06.2026 behoben. Weitere Ausfälle würden die Marge belasten
+  - KI-Pilot: Budget CHF 180'000 genehmigt, Kickoff im August. Das Risiko liegt weniger in der Technik als in den Regeln, was der Agent Kunden zusagen darf
 - **Ausblick Gesamtjahr:** CHF 38 Mio. Umsatz, 10 % EBIT-Marge (Stand 30.07.2026)
 
 > [!warning] Contradiction
@@ -64,7 +64,10 @@ Mitarbeitende am 30.06.2026: 140 Köpfe, 131 Vollzeitstellen.
 > **AlpCare-Preis:** Laut diesem Bericht bleibt die Preisliste bei CHF 1'200 (Stand 30.07.2026). Jonas Weber nannte Bergland am 16.06.2026 CHF 1'450. Siehe [[alpcare]]. (Quelle: [[2026-06-18-email-thread-bergland]])
 
 > [!warning] Contradiction
-> **Termin AlpPick 2.0:** Die GL hatte am 12.03.2026 September 2026 beschlossen (Quelle: [[2026-03-12-executive-board-minutes]]). Laut diesem Bericht wird der Termin erst im August festgelegt. Siehe [[alppick-2-0]].
+> **Termin AlpPick 2.0:** Die GL hatte am 12.03.2026 September 2026 beschlossen (Quelle: [[2026-03-12-executive-board-minutes]]). Jonas Weber nannte Bergland am 16.06.2026 «Q4», nicht bestätigt (Quelle: [[2026-06-18-email-thread-bergland]]). Laut diesem Bericht wird der Termin erst im August festgelegt. Siehe [[alppick-2-0]].
+
+> [!warning] Contradiction
+> **Service-Anteil:** Dieser Bericht nennt 28 % für Q1 2026 und 31 % für Q2 2026. Das Memo vom 05.05.2026 nennt «rund ein Drittel» (Quelle: [[2026-05-05-strategy-memo-service-first]]). Siehe [[service-anteil]].
 
 ## Beteiligte Personen und Organisationen
 
