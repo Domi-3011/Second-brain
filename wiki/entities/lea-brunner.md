@@ -3,7 +3,7 @@ title: Dr. Lea Brunner
 type: entity
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md]
 tags: [person, geschaeftsleitung]
 ---
 
@@ -16,3 +16,4 @@ tags: [person, geschaeftsleitung]
 - Führt den Vorsitz der GL-Sitzung vom 12.03.2026. (Quelle: [[2026-03-12-executive-board-minutes]])
 - Berichtet zum Personal: Rekrutierung in der Softwareentwicklung läuft ([[rekrutierung-softwareentwicklung]]). (Quelle: [[2026-03-12-executive-board-minutes]])
 - Verantwortlich für P-04: Konzept [[digitales-onboarding]] bis 30.06.2026. (Quelle: [[2026-03-12-executive-board-minutes]])
+- Autorin des Strategie-Memos «Service first» vom 05.05.2026 ([[strategie-service-first]]) (Quelle: [[2026-05-05-strategy-memo-service-first]])

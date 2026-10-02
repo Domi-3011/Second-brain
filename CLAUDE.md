@@ -100,17 +100,28 @@ tags: [thema, thema]
 
 ### Workflow 1: Ingest
 
-**Wenn** ich schreibe «Ingest `<Datei>`» oder «Lies `<Datei>` ein» (oder ich füge Text ein und sage «Speichere das als Quelle und lies es ein»),
+**Wenn** ich schreibe «Ingest `<Datei>`», oder wenn ich Text einfüge und schreibe «Save this as a source and ingest it»,
 **dann:**
 
-1. Wenn ich Text einfüge, speichere ihn zuerst als Quelle unter `raw/<thema>/<YYYY-MM-DD>-<kurzname>.md`.
+1. Wenn ich Text einfüge, speichere ihn zuerst unter `raw/own/<YYYY-MM-DD>-<kurzname>.md`.
 2. Lies die Quelle vollständig.
-3. Schreibe eine Quellenseite in `wiki/sources/` mit: Zusammenfassung (max. 5 Sätze), Kernpunkte als Liste, beteiligte Personen und Organisationen, offene Punkte.
-4. Erstelle für jede neue Person, Organisation, jedes Produkt, Projekt und jeden Begriff eine Seite oder aktualisiere die bestehende. Prüfe zuerst in `_index.md`, ob die Seite schon existiert.
+3. Schreibe die Quellenseite in `wiki/sources/`: Zusammenfassung (max. 5 Sätze), Kernpunkte, Personen, offene Punkte.
+4. Erstelle oder aktualisiere je eine Seite pro Person, Organisation, Produkt, Projekt und wichtigem Begriff. Prüfe zuerst `_index.md`.
 5. Verlinke alle Seiten miteinander.
-6. Aktualisiere `wiki/_index.md`.
-7. Hänge einen Eintrag an `wiki/_log.md` an: Datum, «ingest», Quelle, neue und geänderte Seiten.
-8. Melde mir in höchstens 8 Zeilen: Was ist neu? Was hat sich geändert? Was ist unklar oder widersprüchlich?
+6. Aktualisiere `wiki/_index.md` und `wiki/_log.md`.
+
+**Qualität:**
+- Jede Zahl mit Datum und Quelle.
+- Widersprüche mit `[!warning] Contradiction` markieren, nie auflösen.
+
+**Fertig, wenn:**
+- der Index jede neue Seite aufführt,
+- das Log einen Eintrag hat und
+- ich einen Bericht von höchstens 8 Zeilen erhalten habe (neu / geändert / unklar).
+
+**Nie:**
+- Fakten erfinden.
+- Etwas in `raw/` ändern (ausser dem Speichern einer eingefügten Quelle nach Schritt 1).
 
 ### Workflow 2: Query
 
@@ -128,13 +139,14 @@ tags: [thema, thema]
 **Wenn** ich «Lint» schreibe,
 **dann:**
 
-1. Suche Widersprüche zwischen Seiten (Zahlen, Daten, Namen, Aussagen).
-2. Suche veraltete Aussagen (eine ältere Quelle sagt A, eine neuere B, die Seite zeigt noch A).
-3. Suche verwaiste Seiten (keine eingehenden Links) und fehlende Links.
-4. Suche Lücken (Personen oder Projekte, die oft erwähnt werden, aber keine Seite haben).
-5. Schreibe einen Bericht nach `wiki/_lint/<YYYY-MM-DD>.md` mit Befund, Schweregrad (hoch/mittel/tief) und Vorschlag.
-6. Ändere nichts automatisch. Ich entscheide, was du korrigierst.
-7. Hänge einen Eintrag an `wiki/_log.md` an.
+1. Suche Zahlen, Daten und Aussagen, die sich zwischen Seiten unterscheiden.
+2. Suche Zahlen, die eine ältere Quelle nennt und eine neuere Quelle geändert hat.
+3. Suche Seiten ohne eingehende Links.
+4. Suche Personen oder Projekte, die oft erwähnt werden, aber keine eigene Seite haben.
+5. Schreibe den Bericht als Tabelle nach `wiki/_lint/<YYYY-MM-DD>.md`: Befund, Seiten, Schweregrad (hoch / mittel / tief), Vorschlag.
+6. Hänge einen Eintrag an `wiki/_log.md` an.
+
+**Nie:** selbst korrigieren. Ändere nichts – ich entscheide, was korrigiert wird.
 
 ## 6. Grenzen (Grundversion)
 

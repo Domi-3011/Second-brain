@@ -3,14 +3,15 @@ title: AlpCare Plus
 type: project
 created: 2026-10-02
 updated: 2026-10-02
-sources: [raw/alpstein/2026-03-12-executive-board-minutes.md]
+sources: [raw/alpstein/2026-03-12-executive-board-minutes.md, raw/alpstein/2026-05-05-strategy-memo-service-first.md, raw/alpstein/2026-06-18-email-thread-bergland.md]
 tags: [projekt, service, preis]
 ---
 
 # AlpCare Plus
 
 **Was:** Geplante Variante von [[alpcare]] mit garantierter Reaktionszeit unter 4 Stunden, auf Kundenwunsch (Quelle: [[2026-03-12-executive-board-minutes]])
-**Status:** Vorschlag in Arbeit, Vorlage im Mai 2026 zusammen mit dem Strategie-Memo (Stand 12.03.2026) (Quelle: [[2026-03-12-executive-board-minutes]])
+**Status:** Vorschlag. Im Strategie-Entwurf mit CHF 1'900 kalkuliert (Quelle: [[2026-05-05-strategy-memo-service-first]]). Laut [[sandra-koller]] ist die Preisfrage nicht entschieden (Stand 16.06.2026). (Quelle: [[2026-06-18-email-thread-bergland]])
+**Teil von:** [[strategie-service-first]]
 
 ## Entscheide
 
@@ -18,4 +19,24 @@ tags: [projekt, service, preis]
 
 ## Offene Punkte
 
-- Wie das Preismodell aussieht, ist offen. Zum Vergleich: AlpCare kostet CHF 1'200 pro Roboter und Monat (Stand 12.03.2026) (Quelle: [[2026-03-12-executive-board-minutes]])
+- Ob das Preismodell (Vorschlag CHF 1'900) entschieden ist, ist offen. Laut [[sandra-koller]] ist es am 16.06.2026 nicht entschieden. (Quelle: [[2026-05-05-strategy-memo-service-first]]) (Quelle: [[2026-06-18-email-thread-bergland]])
+- Zum Vergleich: Der Preis von [[alpcare]] ist selbst umstritten (CHF 1'200 oder 1'450), siehe dort. (Quelle: [[2026-03-12-executive-board-minutes]]) (Quelle: [[2026-06-18-email-thread-bergland]])
+
+## Leistungen (Vorschlag, Stand 05.05.2026)
+
+- Garantierte Reaktionszeit unter 4 Stunden (Quelle: [[2026-05-05-strategy-memo-service-first]])
+- Fernüberwachung rund um die Uhr (Quelle: [[2026-05-05-strategy-memo-service-first]])
+- Ersatzroboter innert 24 Stunden (Quelle: [[2026-05-05-strategy-memo-service-first]])
+- Zielkunden: Pharma und Spitäler (Quelle: [[2026-05-05-strategy-memo-service-first]])
+
+## Preis
+
+- Kalkuliert: CHF 1'900 pro Roboter und Monat (Vorschlag, Stand 05.05.2026) (Quelle: [[2026-05-05-strategy-memo-service-first]])
+- Verantwortlich: [[jonas-weber]] (Quelle: [[2026-05-05-strategy-memo-service-first]])
+
+> [!warning] Contradiction
+> **Preis für garantierte Reaktionszeit:**
+> - Im Strategie-Entwurf ist die garantierte Reaktionszeit Teil von AlpCare Plus, kalkuliert mit CHF 1'900.
+> - Jonas Weber bietet Bergland am 16.06.2026 «AlpCare with a guaranteed response time» für CHF 1'450 an.
+>
+> (Quelle: [[2026-05-05-strategy-memo-service-first]]) (Quelle: [[2026-06-18-email-thread-bergland]])
